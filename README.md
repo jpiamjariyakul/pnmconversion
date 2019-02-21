@@ -15,3 +15,5 @@ Tasks included implementing the following programs:
 - Rotating an image by 90 degrees
 
 - Additional assignment: posterizing image
+
+See README.txt for instructions (such txt file was also part of assessment requirement)
